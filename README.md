@@ -73,7 +73,7 @@ During the course of our analysis we performed 3 tyep of visualization univariat
 
 
 ## Key Insights for Presentation
----
+
  For this presentation, the main feature i was trying to analysis is the how other factors influence or affect trip duration, but before we can analysis this relationship we first have to see how the trip duration is distributed. Upon plotting a histogram of trip duration we discovered that most of the trip are are between 5 to 15 minutes, however our distribution wasn't a normal distribution and we had to apply log on the feature in other for us to get a normal distribution curve. 
  
  Next, I graphed a heat map showing the relationship between the age and starting hours, this showed us that most trip occure around 8:00 in the morning and 5:00. this marches peak time when people are going to work and coming back home. 
