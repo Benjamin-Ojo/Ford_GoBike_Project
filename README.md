@@ -1,10 +1,9 @@
 # Ford GoBike System Data
----
+
 ## By Benjamin Adekunle Ojo.
 
 
 ## Dataset
---- 
 Ford GoBike was a bike-sharing system that covered the greater San Francisco Bay area from 2017 to 2019. This dataset has information on trips taken on 2019.
 
 The dataset was provided by Ford Gobike System and it contains activities of customers who made use of Ford GoBike System from 2017 to 2019. The following are features contain in the Dataset:
@@ -46,7 +45,6 @@ The main objective of the project was to exam the data using explorative and exp
 
 
 ## Summary of Findings
----
 During the course of our analysis we performed 3 tyep of visualization univariate, bivariate, and multivariate visualization. The following are insight got from this visualization. 
 
 ***Univariate Graph Findings***
